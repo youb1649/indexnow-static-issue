@@ -1,0 +1,1 @@
+# indexnow-static-issue
